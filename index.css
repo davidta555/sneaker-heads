@@ -25,3 +25,39 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+h1 {
+  font-family: Copperplate;
+  color: #a865c9;
+  text-align: center;
+  text-decoration: underline;
+  background: rgb(34, 195, 182);
+  background: linear-gradient(
+    0deg,
+    rgb(241, 117, 0) 0%,
+    rgb(116, 201, 241) 100%
+  );
+  width: 600px;
+  height: 50px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+#jordans-1 {
+  box-shadow: 3px 3px blue;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 375px;
+  max-width: 400px;
+  height: auto;
+}
+
+#jordans-1-desc {
+    background-color: aquamarine;
+    width: 400px;
+    border-radius: 3px;
+    border: red;
+    border-style: solid;
+    margin: 10px 50px 10px 375px;
+}
